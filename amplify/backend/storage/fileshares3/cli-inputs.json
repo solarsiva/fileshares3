@@ -1,0 +1,13 @@
+{
+  "resourceName": "fileshares3",
+  "policyUUID": "bfb479e7",
+  "bucketName": "fileshares372d568e1cd864987b78c5666c8505e05",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

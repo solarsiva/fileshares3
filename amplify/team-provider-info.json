@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fileshares3-dev-195118-authRole",
+      "UnauthRoleArn": "arn:aws:iam::317877151524:role/amplify-fileshares3-dev-195118-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::317877151524:role/amplify-fileshares3-dev-195118-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fileshares3-dev-195118-deployment",
+      "UnauthRoleName": "amplify-fileshares3-dev-195118-unauthRole",
+      "StackName": "amplify-fileshares3-dev-195118",
+      "StackId": "arn:aws:cloudformation:us-east-1:317877151524:stack/amplify-fileshares3-dev-195118/ebd9aa50-cab7-11ed-9ab7-0e08cb9f09f3",
+      "AmplifyAppId": "d2wnwqsujwhyah"
+    },
+    "categories": {
+      "auth": {
+        "fileshares350b50131": {}
+      },
+      "api": {
+        "fileshares3": {}
+      },
+      "storage": {
+        "fileshares3": {}
+      }
+    }
+  }
+}

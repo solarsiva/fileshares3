@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "fileshares3",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authfileshares350b50131",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
